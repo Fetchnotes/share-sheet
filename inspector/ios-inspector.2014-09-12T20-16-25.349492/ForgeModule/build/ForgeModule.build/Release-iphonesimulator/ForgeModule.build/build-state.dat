@@ -1,451 +1,0 @@
-TForgeModule
-v6
-r1
-cCheck dependencies
-cProcessPCH /var/folders/n6/6mmt14ld11s9606g8r_1sv380000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-euusvyssymoynrfcmjcatozuuufa/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRActivityProvider.o /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRActivityProvider.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/share_sheet_API.o /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/share_sheet_API.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRArchiveActivity.o /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRArchiveActivity.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRActivity.o /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRActivity.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/share_sheet_EventListener.o /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/share_sheet_EventListener.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRDeleteActivity.o /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRDeleteActivity.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLibtool /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/libForgeModule.a normal i386
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
-c00000000525642F10000000000000176
-t1381384945
-s374
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
-c00000000526E99D900000000000003B5
-t1382980057
-s949
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
-c00000000526E99DC00000000000001A0
-t1382980060
-s416
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
-c00000000526E99DD0000000000059350
-t1382980061
-s365392
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c00000000526E99DD0000000000445870
-t1382980061
-s4479088
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c00000000526E99DE000000000088C680
-t1382980062
-s8963712
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
-c00000000526E99DF00000000001081B0
-t1382980063
-s1081776
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c00000000526E99E00000000001DB9910
-t1382980064
-s31168784
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/ForgeCore
-c0000000052703E37000000000046243C
-t1383087671
-s4596796
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/ALAsset+Data.h
-c0000000052703E37000000000000010F
-t1383087671
-s271
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/BorderControl.h
-c0000000052703E370000000000000220
-t1383087671
-s544
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeApp.h
-c0000000052703E370000000000000542
-t1383087671
-s1346
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeAppDelegate.h
-c0000000052703E370000000000000187
-t1383087671
-s391
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeCore.h
-c0000000052703E3700000000000002F6
-t1383087671
-s758
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeEventListener.h
-c0000000052703E370000000000000CFA
-t1383087671
-s3322
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeFile.h
-c0000000052703E37000000000000037A
-t1383087671
-s890
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeLog.h
-c0000000052703E37000000000000013F
-t1383087671
-s319
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeTask.h
-c0000000052703E3700000000000002F7
-t1383087671
-s759
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeUtil.h
-c0000000052703E370000000000000115
-t1383087671
-s277
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeViewController.h
-c0000000052703E3700000000000001C2
-t1383087671
-s450
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/JSONKit.h
-c0000000052703E370000000000002DBE
-t1383087671
-s11710
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/NSData+Base64.h
-c0000000052703E370000000000000212
-t1383087671
-s530
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DirectoryLocations.h
-c0000000052703E37000000000000057F
-t1383087671
-s1407
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DoNotBackup.h
-c0000000052703E3700000000000000A2
-t1383087671
-s162
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/NSURL+QueryString.h
-c0000000052703E370000000000000103
-t1383087671
-s259
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/Reachability.h
-c0000000052703E370000000000000CDD
-t1383087671
-s3293
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/UIImage+ResizeImage.h
-c0000000052703E370000000000000182
-t1383087671
-s386
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/UIViewController+dismissViewControllerHelper.h
-c0000000052703E370000000000000149
-t1383087671
-s329
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch
-c0000000052703E370000000000000159
-t1383087671
-s345
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRActivity.h
-c00000000528BF6F3000000000000026F
-t1384904435
-s623
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRActivity.m
-c00000000528FD3FF000000000000160A
-t1385157631
-s5642
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRActivityProvider.h
-c00000000527D3ECC0000000000000229
-t1383939788
-s553
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRActivityProvider.m
-c00000000528EAEE80000000000000461
-t1385082600
-s1121
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRArchiveActivity.h
-c00000000528BFBAF00000000000001B0
-t1384905647
-s432
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRArchiveActivity.m
-c00000000528D580D0000000000000438
-t1384994829
-s1080
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRDeleteActivity.h
-c00000000528AB7BB00000000000000E1
-t1384822715
-s225
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRDeleteActivity.m
-c00000000528D55D900000000000002DA
-t1384994265
-s730
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/ForgeModule.LinkFileList
-c00000000528CEC0C00000000000004B5
-t1384967180
-s1205
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRActivity.o
-t1385157645
-s61076
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRActivityProvider.o
-t1385157645
-s52312
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRArchiveActivity.o
-t1384995038
-s46324
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRDeleteActivity.o
-t1384995038
-s43684
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/share_sheet_API.o
-t1385157645
-s47056
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/share_sheet_EventListener.o
-t1384995038
-s55444
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/libForgeModule.a
-t1385051539
-s307568
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/share_sheet_API.h
-c000000005277E57700000000000000EB
-t1383589239
-s235
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/share_sheet_API.m
-c00000000528EAEDE00000000000002EC
-t1385082590
-s748
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/share_sheet_EventListener.h
-c0000000052703E37000000000000008C
-t1383087671
-s140
-
-N/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/share_sheet_EventListener.m
-c000000005272934D000000000000021E
-t1383240525
-s542
-
-N/var/folders/n6/6mmt14ld11s9606g8r_1sv380000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-ejnhniilgbhxfqautuxlwyvqmolu/ForgeModule-Prefix.pch.pch
-t1383176756
-s5907660
-
-N/var/folders/n6/6mmt14ld11s9606g8r_1sv380000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-euusvyssymoynrfcmjcatozuuufa/ForgeModule-Prefix.pch.pch
-t1384995038
-s5907696
-
-CCheck dependencies
-r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesa35aac8d0b40b841^2bf8b58d0b40b841^---0#1#1#--18"Check dependencies36"0A8D2B9C-3829-46EC-9027-9A0A1D350C73-
-
-CCompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRActivity.o /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRActivity.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s406850445.713752
-e406850445.848786
-r1
-xCompileC
-xbuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRActivity.o
-x/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRActivity.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRActivity.m
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRActivity.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRArchiveActivity.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRDeleteActivity.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRActivityProvider.h
-o/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRActivity.m:92:10: warning: capturing 'self' strongly in this block is likely to lead to a retain cycle [-Warc-retain-cycles]
-o        [self dismissViewControllerAnimated:YES completion:nil];
-o         ^~~~
-o/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRActivity.m:91:6: note: block will be retained by an object strongly retained by the captured object
-o    [self.shareSheet setCompletionHandler:^(NSString *activityType, BOOL completed) {
-o     ^~~~
-o1 warning generated.
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRActivity.m188"CompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRActivity.o TRActivity.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3cf7b68d0b40b841^8449d98d0b40b841^-615"/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRActivity.m:92:10: warning: capturing 'self' strongly in this block is likely to lead to a retain cycle [-Warc-retain-cycles]        [self dismissViewControllerAnimated:YES completion:nil];         ^~~~/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRActivity.m:91:6: note: block will be retained by an object strongly retained by the captured object    [self.shareSheet setCompletionHandler:^(NSString *activityType, BOOL completed) {     ^~~~1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@75"Capturing 'self' strongly in this block is likely to lead to a retain cycle-406850445#18446744073709551615#0#1(2@76"Block will be retained by an object strongly retained by the captured object-406850445#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@114"file:///Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRActivity.m0000000000000000^90#5#90#5#4280#0#16"ARC Retain Cycle1(3@114"file:///Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRActivity.m0000000000000000^90#5#90#9#4280#0#-1#27"com.apple.dt.IDE.diagnostic3@114"file:///Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRActivity.m0000000000000000^91#9#91#9#4370#0#16"ARC Retain Cycle1(3@114"file:///Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRActivity.m0000000000000000^91#9#91#13#4370#0#-0#0#1#-19%DVTDocumentLocation4@114"file:///Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRActivity.m0000000000000000^4388"CompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRActivity.o TRActivity.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0.1 -I/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/ForgeModule.hmap -I/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/include -I. -Isharesheet.bundle -I/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources/i386 -I/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources -F/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator -F/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule -F/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/.. -include /var/folders/n6/6mmt14ld11s9606g8r_1sv380000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-euusvyssymoynrfcmjcatozuuufa/ForgeModule-Prefix.pch -MMD -MT dependencies -MF /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRActivity.d --serialize-diagnostics /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRActivity.dia -c /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRActivity.m -o /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRActivity.o36"2D9DB170-F578-4B1D-93CD-1DDB7587B520-
-b49C90EC6-3D29-4C4B-871F-D63AFCFE3F12
-
-CCompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRActivityProvider.o /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRActivityProvider.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s406850445.713285
-e406850445.833798
-r1
-xCompileC
-xbuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRActivityProvider.o
-x/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRActivityProvider.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRActivityProvider.m
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRActivityProvider.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/share_sheet_API.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRActivityProvider.m204"CompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRActivityProvider.o TRActivityProvider.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler48ddb68d0b40b841^d674d58d0b40b841^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRActivityProvider.m0000000000000000^4436"CompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRActivityProvider.o TRActivityProvider.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0.1 -I/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/ForgeModule.hmap -I/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/include -I. -Isharesheet.bundle -I/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources/i386 -I/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources -F/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator -F/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule -F/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/.. -include /var/folders/n6/6mmt14ld11s9606g8r_1sv380000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-euusvyssymoynrfcmjcatozuuufa/ForgeModule-Prefix.pch -MMD -MT dependencies -MF /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRActivityProvider.d --serialize-diagnostics /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRActivityProvider.dia -c /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRActivityProvider.m -o /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRActivityProvider.o36"425E76EB-68F7-4D98-BE8C-F519E4CBE1A3-
-b49C90EC6-3D29-4C4B-871F-D63AFCFE3F12
-
-CCompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRArchiveActivity.o /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRArchiveActivity.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s406687838.081124
-e406687838.145903
-r1
-xCompileC
-xbuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRArchiveActivity.o
-x/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRArchiveActivity.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRArchiveActivity.m
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRArchiveActivity.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Compile /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRArchiveActivity.m202"CompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRArchiveActivity.o TRArchiveActivity.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc6fc145e903db841^575b255e903db841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRArchiveActivity.m0000000000000000^4430"CompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRArchiveActivity.o TRArchiveActivity.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0.1 -I/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/ForgeModule.hmap -I/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/include -I. -Isharesheet.bundle -I/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources/i386 -I/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources -F/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator -F/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule -F/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/.. -include /var/folders/n6/6mmt14ld11s9606g8r_1sv380000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-euusvyssymoynrfcmjcatozuuufa/ForgeModule-Prefix.pch -MMD -MT dependencies -MF /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRArchiveActivity.d --serialize-diagnostics /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRArchiveActivity.dia -c /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRArchiveActivity.m -o /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRArchiveActivity.o36"3BCC103D-31BA-4C0F-A0C9-75C8B9F7F3DC-
-b8E605903-6387-47BB-AF19-4757D12294EB
-
-CCompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRDeleteActivity.o /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRDeleteActivity.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s406687838.082006
-e406687838.138901
-r1
-xCompileC
-xbuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRDeleteActivity.o
-x/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRDeleteActivity.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRDeleteActivity.m
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRDeleteActivity.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compile /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRDeleteActivity.m200"CompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRDeleteActivity.o TRDeleteActivity.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler355f155e903db841^bdc5235e903db841^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRDeleteActivity.m0000000000000000^4424"CompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRDeleteActivity.o TRDeleteActivity.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0.1 -I/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/ForgeModule.hmap -I/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/include -I. -Isharesheet.bundle -I/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources/i386 -I/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources -F/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator -F/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule -F/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/.. -include /var/folders/n6/6mmt14ld11s9606g8r_1sv380000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-euusvyssymoynrfcmjcatozuuufa/ForgeModule-Prefix.pch -MMD -MT dependencies -MF /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRDeleteActivity.d --serialize-diagnostics /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRDeleteActivity.dia -c /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRDeleteActivity.m -o /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/TRDeleteActivity.o36"5245C32E-380A-4BE2-A39C-67B8A6C7615A-
-b8E605903-6387-47BB-AF19-4757D12294EB
-
-CCompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/share_sheet_API.o /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/share_sheet_API.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s406850445.713429
-e406850445.829679
-r1
-xCompileC
-xbuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/share_sheet_API.o
-x/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/share_sheet_API.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/share_sheet_API.m
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/share_sheet_API.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/TRActivity.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Compile /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/share_sheet_API.m198"CompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/share_sheet_API.o share_sheet_API.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2ee7b68d0b40b841^d366d48d0b40b841^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/share_sheet_API.m0000000000000000^4418"CompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/share_sheet_API.o share_sheet_API.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0.1 -I/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/ForgeModule.hmap -I/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/include -I. -Isharesheet.bundle -I/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources/i386 -I/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources -F/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator -F/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule -F/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/.. -include /var/folders/n6/6mmt14ld11s9606g8r_1sv380000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-euusvyssymoynrfcmjcatozuuufa/ForgeModule-Prefix.pch -MMD -MT dependencies -MF /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/share_sheet_API.d --serialize-diagnostics /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/share_sheet_API.dia -c /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/share_sheet_API.m -o /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/share_sheet_API.o36"66549AE8-5846-4171-A8CC-18327D32D086-
-b49C90EC6-3D29-4C4B-871F-D63AFCFE3F12
-
-CCompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/share_sheet_EventListener.o /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/share_sheet_EventListener.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s406687838.081700
-e406687838.143063
-r1
-xCompileC
-xbuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/share_sheet_EventListener.o
-x/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/share_sheet_EventListener.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/share_sheet_EventListener.m
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/share_sheet_EventListener.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Compile /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/share_sheet_EventListener.m218"CompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/share_sheet_EventListener.o share_sheet_EventListener.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbb25155e903db841^3ece245e903db841^---0#0#1#-19%DVTDocumentLocation2@129"file:///Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/share_sheet_EventListener.m0000000000000000^4478"CompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/share_sheet_EventListener.o share_sheet_EventListener.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0.1 -I/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/ForgeModule.hmap -I/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/include -I. -Isharesheet.bundle -I/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources/i386 -I/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources -F/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator -F/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule -F/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/.. -include /var/folders/n6/6mmt14ld11s9606g8r_1sv380000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-euusvyssymoynrfcmjcatozuuufa/ForgeModule-Prefix.pch -MMD -MT dependencies -MF /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/share_sheet_EventListener.d --serialize-diagnostics /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/share_sheet_EventListener.dia -c /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/share_sheet_EventListener.m -o /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/share_sheet_EventListener.o36"DB53739C-AA63-4C0C-B7B0-45F8E83E0B96-
-b8E605903-6387-47BB-AF19-4757D12294EB
-
-CLibtool /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/libForgeModule.a normal i386
-s406850445.852581
-e406850445.864168
-r1
-xLibtool
-x/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/libForgeModule.a
-xnormal
-xi386
-o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Libtool build/Release-iphonesimulator/libForgeModule.a normal i38666"Libtool build/Release-iphonesimulator/libForgeModule.a normal i3867077da8d0b40b841^213ddd8d0b40b841^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1976"Libtool build/Release-iphonesimulator/libForgeModule.a normal i386    cd /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator -filelist /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/ForgeModule.LinkFileList -ObjC -framework SystemConfiguration -framework AssetsLibrary -framework CoreGraphics -framework UIKit -framework Foundation -framework ForgeCore -o /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/libForgeModule.a36"3EAFD825-77DB-485A-ACC5-0F8B32F1DEB3-
-b49C90EC6-3D29-4C4B-871F-D63AFCFE3F12
-
-CProcessPCH /var/folders/n6/6mmt14ld11s9606g8r_1sv380000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-ejnhniilgbhxfqautuxlwyvqmolu/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s404869556.200831
-e404869556.636694
-r1
-xProcessPCH
-x/var/folders/n6/6mmt14ld11s9606g8r_1sv380000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-ejnhniilgbhxfqautuxlwyvqmolu/ForgeModule-Prefix.pch.pch
-xForgeModule-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeCore.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeTask.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeLog.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeAppDelegate.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeApp.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/JSONKit.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeViewController.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeEventListener.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeFile.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeUtil.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/BorderControl.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/ALAsset+Data.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/UIImage+ResizeImage.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/NSData+Base64.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DirectoryLocations.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/NSURL+QueryString.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/Reachability.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/UIViewController+dismissViewControllerHelper.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DoNotBackup.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile ForgeModule-Prefix.pch313"ProcessPCH /var/folders/n6/6mmt14ld11s9606g8r_1sv380000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-ejnhniilgbhxfqautuxlwyvqmolu/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler08ad33b4d121b841^8fffa2b4d121b841^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch0000000000000000^4343"ProcessPCH /var/folders/n6/6mmt14ld11s9606g8r_1sv380000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-ejnhniilgbhxfqautuxlwyvqmolu/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0.1 -I/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/ForgeModule.hmap -I/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/include -I. -I/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources/i386 -I/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources -F/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator -F/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule -F/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/.. --serialize-diagnostics /var/folders/n6/6mmt14ld11s9606g8r_1sv380000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-ejnhniilgbhxfqautuxlwyvqmolu/ForgeModule-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/n6/6mmt14ld11s9606g8r_1sv380000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-ejnhniilgbhxfqautuxlwyvqmolu/ForgeModule-Prefix.pch.d -c /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch -o /var/folders/n6/6mmt14ld11s9606g8r_1sv380000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-ejnhniilgbhxfqautuxlwyvqmolu/ForgeModule-Prefix.pch.pch36"5E1B9DF4-115B-4000-9AE7-4682FC840DE9-
-b91C2FE32-EF21-4FC1-BE80-7DCF3748C375
-
-CProcessPCH /var/folders/n6/6mmt14ld11s9606g8r_1sv380000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-euusvyssymoynrfcmjcatozuuufa/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s406687837.827692
-e406687838.079999
-r1
-xProcessPCH
-x/var/folders/n6/6mmt14ld11s9606g8r_1sv380000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-euusvyssymoynrfcmjcatozuuufa/ForgeModule-Prefix.pch.pch
-xForgeModule-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeCore.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeTask.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeLog.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeAppDelegate.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeApp.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/JSONKit.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeViewController.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeEventListener.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeFile.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeUtil.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/BorderControl.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/ALAsset+Data.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/UIImage+ResizeImage.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/NSData+Base64.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DirectoryLocations.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/NSURL+QueryString.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/Reachability.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/UIViewController+dismissViewControllerHelper.h
-d/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DoNotBackup.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile ForgeModule-Prefix.pch313"ProcessPCH /var/folders/n6/6mmt14ld11s9606g8r_1sv380000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-euusvyssymoynrfcmjcatozuuufa/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6726d45d903db841^f27a145e903db841^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch0000000000000000^4363"ProcessPCH /var/folders/n6/6mmt14ld11s9606g8r_1sv380000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-euusvyssymoynrfcmjcatozuuufa/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0.1 -I/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/ForgeModule.hmap -I/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/include -I. -Isharesheet.bundle -I/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources/i386 -I/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources -F/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator -F/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule -F/Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/.. --serialize-diagnostics /var/folders/n6/6mmt14ld11s9606g8r_1sv380000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-euusvyssymoynrfcmjcatozuuufa/ForgeModule-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/n6/6mmt14ld11s9606g8r_1sv380000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-euusvyssymoynrfcmjcatozuuufa/ForgeModule-Prefix.pch.d -c /Users/gilesvangruisen/forge-workspace/modules/share_sheet/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch -o /var/folders/n6/6mmt14ld11s9606g8r_1sv380000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-euusvyssymoynrfcmjcatozuuufa/ForgeModule-Prefix.pch.pch36"FFE724D9-C700-4467-AB8A-A4FD8887496C-
-b8E605903-6387-47BB-AF19-4757D12294EB
-
