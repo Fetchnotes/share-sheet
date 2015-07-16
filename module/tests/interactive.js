@@ -1,9 +1,14 @@
 module("share_sheet");
 
 // In this test we call the example showAlert API method with an example string
-asyncTest("Attempt to show an alert with no text", 1, function() {
-	forge.share_sheet.showAlert("Hello, testing world!", function () {
-		askQuestion("Did you see an alert with the message 'Hello, testing world!'?", {
+asyncTest("Share a link", 1, function() {
+	forge.internal.call('share_sheet.show', {
+		text: "Check out this awesome note I wrote!",
+		url: void 0,
+		archived: 'false',
+		publicLink: "http://fetchnotes.com/test-url"
+	}, function () {
+		askQuestion("Were you prompted to share a message?", {
 			Yes: function () {
 				ok(true, "User claims success");
 				start();
